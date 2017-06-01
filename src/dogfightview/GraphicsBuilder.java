@@ -2,9 +2,10 @@ package dogfightview;
 import java.awt.image.BufferedImage;
 
 import dogfight.Modele.IDogfightModel;
+import gameframe.IGraphicsBuilder;
 
 
-public class GraphicsBuilder {
+public class GraphicsBuilder implements IGraphicsBuilder {
 	//=========ATTRIBUTES===========//
 	private BufferedImage emptySky;
 	private IDogfightModel dogfightModel;
