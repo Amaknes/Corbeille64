@@ -13,10 +13,11 @@ public class Missile {
 	}
 	
 	public int getWidhtADirection(Direction direction){
-		return ;
+		return 1;
+		
 	}
 	public int getHeightADirection(Direction direction){
-		return HEIGHT;
+		return 1;
 	}
 	
 	public void move(){

@@ -1,8 +1,9 @@
 package dogfight.Model;
 
 import java.util.ArrayList;
+import java.util.Observable;
 
-public class DogfightModel implements IDogfightModel {
+public class DogfightModel extends Observable implements IDogfightModel {
 
 	public IMobile Mobile;
 	

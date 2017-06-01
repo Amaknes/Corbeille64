@@ -7,16 +7,14 @@ public class Plane extends Mobile{
 	private int HEIGHT=30;
 	private int player;
 	
-	public Plane (int player, Direction direction, Position position, String image){
-	this.player=player;
-	this.direction=direction;
-	this.position=position;
-	this.image=image;
+	public Plane(int player, Direction direction, Position position, String image){
 	}
 	
 	public boolean isPlayer (int player){
+		return false;
 	}
 	
 	public boolean hit (){
+		return false;
 	}
 }
