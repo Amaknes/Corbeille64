@@ -1,4 +1,4 @@
-package dogfight.Modèle;
+package dogfight.Modele;
 
 public interface IArea {
 
