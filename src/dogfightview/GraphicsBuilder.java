@@ -3,6 +3,7 @@ import java.awt.image.BufferedImage;
 
 import dogfight.Modele.IDogfightModel;
 
+
 public class GraphicsBuilder {
 	//=========ATTRIBUTES===========//
 	private BufferedImage emptySky;
