@@ -5,4 +5,4 @@
  * @author Administrator
  *
  */
-package dogfight.Modele;
+package dogfight.Model;
