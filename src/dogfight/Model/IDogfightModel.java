@@ -1,5 +1,6 @@
-package dogfight.Modele;
+package dogfight.Model;
 
 public interface IDogfightModel {
 
+	 private
 }
