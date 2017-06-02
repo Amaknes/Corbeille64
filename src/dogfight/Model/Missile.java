@@ -1,6 +1,6 @@
 package dogfight.Model;
 
-public class Missile {
+public class Missile extends Mobile {
 
 	private int SPEED=4;
 	private int WIDHT=30;
