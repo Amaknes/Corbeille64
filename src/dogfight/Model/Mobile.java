@@ -11,6 +11,7 @@ public class Mobile implements IMobile {
 	public Direction direction;
 	public Image image;
 	
+	public Mobile(){}
 	public Mobile(Direction direction, Position position, Dimension dimension, int speed, String image) {
 	}
 

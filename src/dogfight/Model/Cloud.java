@@ -9,7 +9,7 @@ public class Cloud extends Mobile{
 	public Direction direction;
 	public Dimension dimension;
 	
-	public Cloud (Direction direction, Dimension dimension){
+	public Cloud(Direction direction, Dimension dimension){
 		this.direction=direction;
 		this.dimension=dimension;
 	}
